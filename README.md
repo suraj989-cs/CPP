@@ -1,2 +1,2 @@
 # my_codes
-Data dtructure Codes..
+Data structure Codes..
