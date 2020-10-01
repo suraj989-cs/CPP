@@ -3,7 +3,7 @@
 int front=-1,rear=-1;
 int queue[size];
 using namespace std;
-void enqueue (int element)
+void enqueue (in element)
 {
 	if((rear+1)%size==front)
 	{
